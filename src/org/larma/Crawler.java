@@ -24,7 +24,7 @@ public class Crawler {
 
     public Crawler() {
         plan.add(0);
-        BASE_URL = "http://localhost:5000/";
+        //BASE_URL = "http://localhost:5000/";
     }
 
     public void run() throws Exception
